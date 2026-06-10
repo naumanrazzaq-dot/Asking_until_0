@@ -1,1 +1,1 @@
-This is C++ program in which we have to ask from user to enter numbers until he enter 0 .
+This is a C++ Do While program in which we have to ask the user to enter numbers until he enters 0.
